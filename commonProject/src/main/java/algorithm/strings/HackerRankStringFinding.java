@@ -1,4 +1,4 @@
-package AlogorithmString;
+package algorithm.strings;
 
 import java.util.*;
 public class HackerRankStringFinding {
